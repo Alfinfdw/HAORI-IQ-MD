@@ -21,7 +21,7 @@ let fetch = require('node-fetch')
  function pickRandom(list) { 
    return list[Math.floor(Math.random() * list.length)] 
  } 
- global.owner = ['6285158866902','62831433937633', '62896255561617'] // Put your number here 
+ global.owner = ['6285852939370','4915256954581', '6282223011829'] // Put your number here 
  global.mods = [] // Want some help? 
  global.prems = [] // Premium user has unlimited limit 
  global.APIs = { // API Prefix 
