@@ -21,7 +21,7 @@ let fetch = require('node-fetch')
  function pickRandom(list) { 
    return list[Math.floor(Math.random() * list.length)] 
  } 
- global.owner = ['6285852939370','4915256954581', '6282223011829'] // Put your number here 
+ global.owner = ['6285852939370','6282223011829', '6282223011829'] // Put your number here 
  global.mods = [] // Want some help? 
  global.prems = [] // Premium user has unlimited limit 
  global.APIs = { // API Prefix 
@@ -62,13 +62,13 @@ let fetch = require('node-fetch')
  // Sticker WM 
  global.stiker_wait = '*WAIT! | Mohon Tunggu Sebentar...*' 
  global.packname = 'Buatan Siapa?' 
- global.author = `Buatan Haori` 
- global.wm = 'ＨＡＯＲＩ　ＩＱ　ＭＤ　🌹　'  
+ global.author = `Buatan ALGANZ` 
+ global.wm = 'ALGANZ ＭＤ　🌹　'  
  global.watermark = wm 
  global.linkgc = 'https://chat.whatsapp.com/Kyz397uqvJZ5AvX7I4BSID'
 global.link = 'https://youtu.be/0CyJP3EKrf4'
 global.deslink = ''
-global.titlink = 'ＨＡＯＲＩ　ＩＱ　ＭＤ　🌹　'
+global.titlink = 'ALGANZ ＭＤ　🌹　'
 global.bodlink = '@zivfurr'
 global.linkig = 'https://instagram.com/not_pilar32'
 global.instagram = 'https://instagram.com/not_pilar32'
